@@ -1,7 +1,7 @@
 {
   "name": "helper-slugify",
   "description": "Slugify a URL, path or heading id using the same format as GitHub heading anchors.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/jonschlinkert/helper-slugify",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/helper-slugify",
